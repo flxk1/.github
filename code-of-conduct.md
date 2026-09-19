@@ -36,9 +36,11 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-This project has a single maintainer. Report unacceptable behavior to **conduct@felixkrone.de**. All complaints will be reviewed and investigated promptly and fairly, and the privacy and security of the reporter is respected.
+This project has a single maintainer, and no committee stands behind this document: a report is read by one person.
 
-If your concern is about me, GitHub Support's abuse reporting is a route independent of me. I consider its use entirely legitimate and will not treat it as a breach of this code.
+Behaviour in this project's issues and pull requests is visible to me there, and I act on it. For anything that should not be public, or that concerns me, use GitHub's own abuse reporting at https://github.com/contact/report-abuse — it reaches GitHub Support independently of me, and I consider its use entirely legitimate rather than an escalation over my head.
+
+Complaints are reviewed and investigated promptly and fairly, and the privacy and security of the reporter is respected.
 
 ## Enforcement Guidelines
 

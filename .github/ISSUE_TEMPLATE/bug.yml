@@ -7,8 +7,8 @@ body:
   - type: markdown
     attributes:
       value: >
-        Bug reports only. Improvement proposals go to
-        contributions@felixkrone.de — see contributing.md.
+        Bug reports only. For anything else, take the improvement proposal
+        form — see contributing.md.
   - type: input
     id: version
     attributes:

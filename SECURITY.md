@@ -1,10 +1,9 @@
 # Security policy
 
-Report vulnerabilities privately — never in a public issue.
-
-- Preferred: **Report a vulnerability** in the repository's Security tab
-  (GitHub private vulnerability reporting).
-- Alternative: **security@felixkrone.de**, PGP welcome.
+Report vulnerabilities privately, never in a public issue: open the repository's
+**Security** tab and use **Report a vulnerability**. Every repository here
+carries that button. The security page is readable without an account; the form
+itself needs one.
 
 Repositories with their own SECURITY.md take precedence over this default.
 
@@ -51,5 +50,5 @@ and credited; they are not paid.
 ## Safe harbour
 
 Good-faith research within this policy — against your own local installation
-only, no access to other people's data, no service disruption — will not be
+only, no access to anyone else's data, no service disruption — will not be
 pursued legally by me. I cannot waive the rights of third parties.

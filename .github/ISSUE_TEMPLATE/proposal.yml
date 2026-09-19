@@ -1,0 +1,48 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 flxk1
+name: Improvement proposal
+description: Describe behaviour that should change. Prose, not patches.
+labels: [proposal]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        This project does not accept code contributions, so describe the
+        behaviour you expect rather than the change that would produce it.
+        See contributing.md for why.
+  - type: input
+    id: repo
+    attributes:
+      label: Repository
+      placeholder: loomground-deontic
+    validations:
+      required: true
+  - type: textarea
+    id: behaviour
+    attributes:
+      label: What should be different
+      description: The behaviour you expect, and why the current behaviour is wrong.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What this makes possible
+      description: What you are trying to do that the current behaviour prevents.
+    validations:
+      required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Credit
+      description: The name to use in the changelog if this is implemented. Leave empty for none.
+  - type: checkboxes
+    id: rights
+    attributes:
+      label: Origin
+      options:
+        - label: >
+            This proposal is mine to make and contains nothing confidential.
+            Anything I paste here is mine to share, and I license it under this
+            repository's licence so it can be used freely.
+          required: true
