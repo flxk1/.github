@@ -1,0 +1,17 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 flxk1
+blank_issues_enabled: false
+contact_links:
+  - name: Suggest an improvement
+    url: mailto:contributions@felixkrone.de
+    about: >
+      Improvement proposals go to email, not the tracker. Describe the
+      behaviour you expect — prose, not patches. See contributing.md.
+  - name: Report a security vulnerability
+    url: https://felixkrone.de/security
+    about: >
+      Never in a public issue. Use "Report a vulnerability" in this
+      repository's Security tab, or security@felixkrone.de.
+  - name: Ask a question
+    url: mailto:contributions@felixkrone.de
+    about: Questions are answered by email.

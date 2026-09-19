@@ -1,0 +1,48 @@
+# SPDX-License-Identifier: Apache-2.0
+# Copyright 2026 flxk1
+name: Bug report
+description: Something does not behave as documented.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: >
+        Bug reports only. Improvement proposals go to
+        contributions@felixkrone.de — see contributing.md.
+  - type: input
+    id: version
+    attributes:
+      label: Repository and version
+      placeholder: loomground-deontic 0.2.0
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected
+      description: Quote the documentation or contract you are relying on.
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: What happened instead
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Reproduction
+      description: The smallest input and invocation that shows it.
+      render: shell
+    validations:
+      required: true
+  - type: checkboxes
+    id: repro-licence
+    attributes:
+      label: Reproduction licence
+      options:
+        - label: >
+            Any reproduction code I paste here is mine to share, and I license
+            it under this repository's licence so it can become a test.
+          required: true

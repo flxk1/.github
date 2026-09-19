@@ -1,0 +1,22 @@
+version = 1
+SPDX-PackageName = "dot-github"
+SPDX-PackageSupplier = "Organization: flxk1"
+
+[[annotations]]
+path = ["README.md", "contributing.md", "SECURITY.md", ".github/PULL_REQUEST_TEMPLATE.md"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 flxk1"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
+path = ["NOTICE", ".gitignore"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 flxk1"
+SPDX-License-Identifier = "Apache-2.0"
+
+# Contributor Covenant v2.1, CC-BY-4.0 by its own authors; adapted here.
+[[annotations]]
+path = "code-of-conduct.md"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2019 Coraline Ada Ehmke and Contributor Covenant contributors"
+SPDX-License-Identifier = "CC-BY-4.0"

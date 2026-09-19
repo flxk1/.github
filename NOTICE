@@ -1,0 +1,24 @@
+Community health files
+Copyright 2026 flxk1
+
+Served by GitHub to the public repositories of the flxk1 account.
+
+contributing.md, SECURITY.md and README.md are licensed under the Creative
+Commons Attribution 4.0 International license (see LICENSES/CC-BY-4.0.txt).
+
+code-of-conduct.md is the Contributor Covenant v2.1 by Coraline Ada Ehmke and
+the Contributor Covenant contributors, licensed CC BY 4.0 and adapted here: the
+Enforcement section names this account's contact and its single maintainer, and
+an Additions section is appended. The adaptation is recorded in the file's own
+Attribution section.
+
+The issue forms and configuration are licensed under the Apache License,
+Version 2.0 (see LICENSES/Apache-2.0.txt).
+
+Authorship and AI assistance: all files are authored by the project's human
+author(s), who hold the copyright. Generative AI tools were used to assist with
+development. An AI system is a tool, not an author or a contributor: it holds no
+copyright and makes no copyright claim, and AI systems cannot hold copyright.
+This assistance is acknowledged here, not recorded as authorship. An assisted
+commit ends with a plain line naming the tool used — "Assisted by <tool>
+(<vendor>)." — never an authorship or co-authorship trailer.
